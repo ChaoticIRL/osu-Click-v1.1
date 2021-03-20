@@ -1,0 +1,1 @@
+Enter 2 or 4 bindings ( osu!Standard and osu!Mania ). Delete this line and seperate them with a space. Example: "z x" OR "d f j k"
